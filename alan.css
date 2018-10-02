@@ -1,0 +1,79 @@
+ nav{
+            list-style-type: none;
+            text-align: center;
+        }
+        nav ul li{
+            float: right;
+            display: inline-table;
+        }
+h1{
+    text-align: center;
+    clear: both;
+    color: blue;
+}
+body{
+    background-color: aqua;
+}
+body img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    height: 300px;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    border-radius:50%;
+}
+p{
+    float: left;
+    padding-left:20%;
+    padding-right: 20%;
+
+}
+h2{
+    text-align:center;
+    color: blue;
+    text-decoration: underline;
+}
+#Honours{
+    color: red;
+    text-decoration: underline;
+}
+p.bright{
+    color: red;
+}
+.spl-linka{
+    padding: 5px;
+    display: inline-block;
+    background-color: darkgray;
+    text-decoration-line: none;
+    text-decoration: bold;
+    color: white;
+}
+.spl-linkb{
+    padding: 5PX;
+    color: white;
+    display: inline-block;
+    background-color: orange;
+    text-decoration-line: none;
+    text-decoration: bold;
+}
+.interesting li{
+    margin-left: 20%;
+    margin-right: 20%;
+    font: 20px/0.8 'Great Vibes', Helvetica, sans-serif;
+    color: blue;
+    text-shadow: 4px 4px 3px rgba(0,0,0,0.1);
+}
+h3 {
+    clear: both;
+    text-align: center;
+    text-decoration: underline;
+    color: blue;
+}
+iframe{
+    width: 700px;
+    height: 400px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
